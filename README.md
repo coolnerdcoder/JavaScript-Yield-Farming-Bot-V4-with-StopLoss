@@ -20,7 +20,7 @@ Extract the Javascript-Yield-Farming-Bot-V4-with-StopLoss.zip anywhere you like 
 Part 2. Editing the settings.
 
 
-<Img src="config screen.png" >
+<Img src="configscreen.png" >
 
 
 Open the bots main folder and find "config.js" file and open it with a text-editor:
