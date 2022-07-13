@@ -1,3 +1,5 @@
+<img src="yieldfarmbotmain.png" >
+
 High-yield farming bot with built-in stop loss function. The biggest asset of this program is the volatility stop loss also the biggest profit builder. When the program analyzes a downwards volatility it immediately pulls from all yield farms and sells into a stable coin which can be configured in the config.js file . It is default set to Ethereum chain USDC, BNB chain BUSD, Polygon USDC POS.
 
 
